@@ -1,0 +1,79 @@
+origin,origin_name,destination,destination_name,distance_mi,dest_region
+ATL,"Atlanta, GA",NYC,"New York, NY",745.9,NE
+ATL,"Atlanta, GA",BOS,"Boston, MA",936.0,NE
+ATL,"Atlanta, GA",CLT,"Charlotte, NC",226.2,SE
+ATL,"Atlanta, GA",HOU,"Houston, TX",701.1,SW
+ATL,"Atlanta, GA",PHX,"Phoenix, AZ",1588.7,SW
+ATL,"Atlanta, GA",SFO,"San Francisco, CA",2135.6,W
+ATL,"Atlanta, GA",LAX,"Los Angeles, CA",1932.7,W
+ATL,"Atlanta, GA",CHI,"Chicago, IL",588.8,MW
+ATL,"Atlanta, GA",MSP,"Minneapolis, MN",908.0,MW
+DAL,"Dallas, TX",NYC,"New York, NY",1370.6,NE
+DAL,"Dallas, TX",BOS,"Boston, MA",1549.2,NE
+DAL,"Dallas, TX",CLT,"Charlotte, NC",928.3,SE
+DAL,"Dallas, TX",ATL,"Atlanta, GA",719.6,SE
+DAL,"Dallas, TX",HOU,"Houston, TX",224.8,SW
+DAL,"Dallas, TX",PHX,"Phoenix, AZ",884.5,SW
+DAL,"Dallas, TX",SFO,"San Francisco, CA",1480.9,W
+DAL,"Dallas, TX",LAX,"Los Angeles, CA",1237.8,W
+DAL,"Dallas, TX",CHI,"Chicago, IL",804.7,MW
+DAL,"Dallas, TX",MSP,"Minneapolis, MN",863.9,MW
+LAX,"Los Angeles, CA",NYC,"New York, NY",2445.6,NE
+LAX,"Los Angeles, CA",BOS,"Boston, MA",2590.9,NE
+LAX,"Los Angeles, CA",CLT,"Charlotte, NC",2115.0,SE
+LAX,"Los Angeles, CA",ATL,"Atlanta, GA",1932.7,SE
+LAX,"Los Angeles, CA",HOU,"Houston, TX",1370.9,SW
+LAX,"Los Angeles, CA",PHX,"Phoenix, AZ",356.8,SW
+LAX,"Los Angeles, CA",SFO,"San Francisco, CA",347.4,W
+LAX,"Los Angeles, CA",CHI,"Chicago, IL",1742.3,MW
+LAX,"Los Angeles, CA",MSP,"Minneapolis, MN",1521.4,MW
+ORD,"Chicago, IL",NYC,"New York, NY",711.0,NE
+ORD,"Chicago, IL",BOS,"Boston, MA",848.6,NE
+ORD,"Chicago, IL",CLT,"Charlotte, NC",587.5,SE
+ORD,"Chicago, IL",ATL,"Atlanta, GA",588.8,SE
+ORD,"Chicago, IL",HOU,"Houston, TX",941.9,SW
+ORD,"Chicago, IL",PHX,"Phoenix, AZ",1451.8,SW
+ORD,"Chicago, IL",SFO,"San Francisco, CA",1854.8,W
+ORD,"Chicago, IL",LAX,"Los Angeles, CA",1742.3,W
+ORD,"Chicago, IL",CHI,"Chicago, IL",0.0,MW
+ORD,"Chicago, IL",MSP,"Minneapolis, MN",354.6,MW
+PHL,"Philadelphia, PA",NYC,"New York, NY",80.5,NE
+PHL,"Philadelphia, PA",BOS,"Boston, MA",270.7,NE
+PHL,"Philadelphia, PA",CLT,"Charlotte, NC",450.6,SE
+PHL,"Philadelphia, PA",ATL,"Atlanta, GA",665.5,SE
+PHL,"Philadelphia, PA",HOU,"Houston, TX",1339.9,SW
+PHL,"Philadelphia, PA",PHX,"Phoenix, AZ",2077.9,SW
+PHL,"Philadelphia, PA",SFO,"San Francisco, CA",2516.8,W
+PHL,"Philadelphia, PA",LAX,"Los Angeles, CA",2388.2,W
+PHL,"Philadelphia, PA",CHI,"Chicago, IL",663.6,MW
+PHL,"Philadelphia, PA",MSP,"Minneapolis, MN",983.1,MW
+DEN,"Denver, CO",NYC,"New York, NY",1627.4,NE
+DEN,"Denver, CO",BOS,"Boston, MA",1765.5,NE
+DEN,"Denver, CO",CLT,"Charlotte, NC",1355.7,SE
+DEN,"Denver, CO",ATL,"Atlanta, GA",1210.0,SE
+DEN,"Denver, CO",HOU,"Houston, TX",878.4,SW
+DEN,"Denver, CO",PHX,"Phoenix, AZ",585.5,SW
+DEN,"Denver, CO",SFO,"San Francisco, CA",947.3,W
+DEN,"Denver, CO",LAX,"Los Angeles, CA",829.9,W
+DEN,"Denver, CO",CHI,"Chicago, IL",918.2,MW
+DEN,"Denver, CO",MSP,"Minneapolis, MN",698.5,MW
+SEA,"Seattle, WA",NYC,"New York, NY",2402.0,NE
+SEA,"Seattle, WA",BOS,"Boston, MA",2485.6,NE
+SEA,"Seattle, WA",CLT,"Charlotte, NC",2280.9,SE
+SEA,"Seattle, WA",ATL,"Atlanta, GA",2178.4,SE
+SEA,"Seattle, WA",HOU,"Houston, TX",1889.3,SW
+SEA,"Seattle, WA",PHX,"Phoenix, AZ",1114.5,SW
+SEA,"Seattle, WA",SFO,"San Francisco, CA",679.3,W
+SEA,"Seattle, WA",LAX,"Los Angeles, CA",960.2,W
+SEA,"Seattle, WA",CHI,"Chicago, IL",1732.9,MW
+SEA,"Seattle, WA",MSP,"Minneapolis, MN",1391.3,MW
+MIA,"Miami, FL",NYC,"New York, NY",1092.4,NE
+MIA,"Miami, FL",BOS,"Boston, MA",1258.5,NE
+MIA,"Miami, FL",CLT,"Charlotte, NC",655.1,SE
+MIA,"Miami, FL",ATL,"Atlanta, GA",606.4,SE
+MIA,"Miami, FL",HOU,"Houston, TX",967.4,SW
+MIA,"Miami, FL",PHX,"Phoenix, AZ",1978.9,SW
+MIA,"Miami, FL",SFO,"San Francisco, CA",2591.0,W
+MIA,"Miami, FL",LAX,"Los Angeles, CA",2335.6,W
+MIA,"Miami, FL",CHI,"Chicago, IL",1191.4,MW
+MIA,"Miami, FL",MSP,"Minneapolis, MN",1513.8,MW

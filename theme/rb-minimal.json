@@ -1,0 +1,60 @@
+{
+  "name": "RB Minimal",
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#2563EB",
+  "dataColors": ["#2563EB", "#10B981", "#F59E0B", "#EF4444", "#8B5CF6", "#14B8A6"],
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI" },
+    "callout": { "fontFace": "Segoe UI" }
+  },
+  "visualStyles": {
+    "page": { "*": [{ "background": [{ "show": false }] }] },
+    "card": {
+      "*": [{
+        "categoryLabels": [{ "show": false }],
+        "labels": [{ "fontSize": 24, "color": { "solid": { "color": "#111827" } } }],
+        "title": [{ "show": true, "fontSize": 10, "color": { "solid": { "color": "#6B7280" } } }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }]
+    },
+    "barChart": {
+      "*": [{
+        "legend": [{ "show": false }],
+        "dataLabels": [{ "show": true, "fontSize": 11 }],
+        "categoryAxis": [{ "gridline": [{ "show": false }], "labelColor": { "solid": { "color": "#374151" } } }],
+        "valueAxis": [{ "gridline": [{ "show": false }], "labelColor": { "solid": { "color": "#6B7280" } } }],
+        "plotArea": [{ "transparency": 0 }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }]
+    },
+    "matrix": {
+      "*": [{
+        "grid": [{ "gridVertical": false, "gridHorizontal": true, "gridHorizontalColor": { "solid": { "color": "#E5E7EB" } } }],
+        "subTotals": [{ "rowSubTotals": false, "columnSubTotals": false }],
+        "rowHeaders": [{ "fontSize": 11, "fontFamily": "Segoe UI", "fontColor": { "solid": { "color": "#111827" } } }],
+        "columnHeaders": [{ "fontSize": 11, "fontColor": { "solid": { "color": "#111827" } } }],
+        "values": [{ "fontSize": 11 }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }]
+    },
+    "tableEx": {
+      "*": [{
+        "grid": [{ "gridVertical": false, "gridHorizontal": true, "gridHorizontalColor": { "solid": { "color": "#E5E7EB" } } }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }]
+    },
+    "slicer": {
+      "*": [{
+        "title": [{ "show": true, "fontSize": 10, "color": { "solid": { "color": "#6B7280" } } }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }]
+    },
+    "textbox": { "*": [{ "background": [{ "show": false }], "line": [{ "show": false }] }] }
+  }
+}
